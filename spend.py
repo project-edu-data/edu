@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 plt.rc('font', family='Malgun Gothic')
-df = pd.read_excel('C:/Users/sgua0/Downloads/OECD 학생 1인당 공교육비(2020).xlsx')
+df = pd.read_excel('C:/Users/pjh74/OneDrive/바탕 화면/OECD_1_2020.xlsx')
 
 print(df.head())
 
