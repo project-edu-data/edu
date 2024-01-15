@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_excel('C:/Users/sgua0/Downloads/OECD_1_2021.xlsx', header=0)
+data = pd.read_excel('C:/Users/pjh74/OneDrive/바탕 화면/교사.xlsx', header=0)
 
 print(data.head())
 

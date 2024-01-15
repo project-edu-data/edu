@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_excel('C:/Users/sgua0/Downloads/학생수.xlsx', skiprows=1)
+df = pd.read_excel('C:/Users/pjh74/OneDrive/바탕 화면/f13886bcc685c684.xlsx', skiprows=1)
 
 print(df.head())
 

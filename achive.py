@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_excel('C:/Users/sgua0/Downloads/학업성취도.xlsx', header=0)
+df = pd.read_excel('C:/Users/pjh74/OneDrive/바탕 화면/학업성취도.xlsx', header=0)
 df.drop(['구분'], axis=1, inplace=True)
 
 print(df.head())
